@@ -88,7 +88,7 @@ footer{
 /* Custom Themes for Tableau page */
 
 .name_div{
-    text-align: right;
+    text-align: left;
     Color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
@@ -101,7 +101,6 @@ footer{
 
 .tableaunav_div{
     text-align: right;
-    color: white;
     padding-top: 60px;
     padding-right: 20px;
 }
@@ -122,4 +121,12 @@ footer{
     padding-top: 40px;
 }
 
-
+.tableau_link{
+    border: 3px;
+    border-style: dashed;
+    color: black;
+    width: 55%;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
